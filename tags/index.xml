@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Leon&#39;s Portfolio</title>
-    <link>/portfolio/tags/</link>
+    <link>/afro-profile/tags/</link>
     <description>Recent content in Tags on Leon&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
     
-	<atom:link href="/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/afro-profile/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>scene</title>
-      <link>/portfolio/tags/scene/</link>
+      <link>/afro-profile/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>/portfolio/tags/scene/</guid>
+      <guid>/afro-profile/tags/scene/</guid>
       <description></description>
     </item>
     
