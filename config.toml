@@ -1,5 +1,5 @@
 title = "Leon's Portfolio"
-baseURL = "/portfolio"
+baseURL = "/afro-profile"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
