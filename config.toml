@@ -2,6 +2,7 @@ title = "Leon's Portfolio"
 baseURL = "/portfolio"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+#theme = "anatole"
 themesDir = "themes"
 
 MetaDataFormat = "yaml"
